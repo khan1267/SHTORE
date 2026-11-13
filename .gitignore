@@ -1,0 +1,10 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Shopify CLI & local cache
+.shopify/
+*.log
+
+# Node dependencies (if any)
+node_modules/
