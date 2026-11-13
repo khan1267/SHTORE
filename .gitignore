@@ -9,3 +9,6 @@ Thumbs.db
 # Node dependencies (if any)
 node_modules/
 
+# Data imports
+*.csv
+
